@@ -24,3 +24,8 @@ The detected fire region is mapped onto a grid to simulate spread direction and 
 ```bash
 pip install -r requirements.txt
 python main.py
+---
+
+## Author
+Sai Bhavya Dandu
+
